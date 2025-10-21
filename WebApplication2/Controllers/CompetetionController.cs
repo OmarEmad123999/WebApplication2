@@ -38,7 +38,7 @@ namespace WebApplication2.Controllers
                     competetions = x.Key
                     .Select(c=> new CompetetionsDTO 
                     {
-                        
+                        //okok
                     }
                     
                     ).ToList()  
